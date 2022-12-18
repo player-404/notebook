@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "8c8282d3e65e3e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd20fbc13482d6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b6634a06a947607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础数据类型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb9b068950e516e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b32ce68f72f55b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e78076cbaafc8d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "688073f964a198aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb6a2ee4ed3c2f20",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d68bbf088cafa7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a3d84cf715a14f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b9279278dbe318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基础数据类型.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b8e6a5edfe57dc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "基础数据类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6549d563a50b761",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "133ea2b20e0702ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "基础数据类型.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4b6634a06a947607",
+  "lastOpenFiles": [
+    "你家什么名字呀.md"
+  ]
+}
