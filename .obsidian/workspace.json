@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础数据类型.md",
-                "mode": "source",
+                "file": "typescript/1.TS 基础数据类型.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础数据类型.md",
+                "file": "typescript/1.TS 基础数据类型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础数据类型.md",
+                "file": "typescript/1.TS 基础数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础数据类型.md"
+                "file": "typescript/1.TS 基础数据类型.md"
               }
             }
           }
@@ -136,7 +136,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4b6634a06a947607",
+  "active": "2e78076cbaafc8d5",
   "lastOpenFiles": [
     "你家什么名字呀.md"
   ]

@@ -3,5 +3,8 @@
   "blue-topaz-theme@@funny-header-anim": true,
   "blue-topaz-theme@@clutter-free-headings": false,
   "blue-topaz-theme@@retain-header-color": false,
-  "blue-topaz-theme@@h1-bg-color@@light": "#FFFFFFE3"
+  "blue-topaz-theme@@h1-bg-color@@light": "#FFFFFFE3",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-dracula",
+  "blue-topaz-theme@@accent-strong@@light": "#E43926",
+  "blue-topaz-theme@@accent-strong@@dark": "#E43952"
 }
