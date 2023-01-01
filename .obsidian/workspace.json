@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/3.函数.md",
-                "mode": "preview",
+                "file": "typescript/1.TS 基础数据类型.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3967398577ae454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/5.联合类型与交叉类型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/4.字面量类型.md",
+                "file": "typescript/1.TS 基础数据类型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/4.字面量类型.md",
+                "file": "typescript/1.TS 基础数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/4.字面量类型.md"
+                "file": "typescript/1.TS 基础数据类型.md"
               }
             }
           }
@@ -160,11 +171,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f4187d698968ddc",
+  "active": "73cd7bfa3eaba914",
   "lastOpenFiles": [
-    "未命名.md",
+    "typescript/5.联合类型与交叉类型.md",
     "typescript/3.函数.md",
+    "typescript/4.字面量类型.md",
     "typescript/1.TS 基础数据类型.md",
+    "未命名.md",
     "typescript/2.接口.md",
     "未命名.canvas",
     "你家什么名字呀.md"
