@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b47dd1172125d893",
+            "id": "73cd7bfa3eaba914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/2.接口.md",
+                "file": "typescript/3.函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/2.接口.md",
+                "file": "typescript/3.函数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/2.接口.md",
+                "file": "typescript/3.函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/2.接口.md"
+                "file": "typescript/3.函数.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b47dd1172125d893",
+  "active": "73cd7bfa3eaba914",
   "lastOpenFiles": [
-    "typescript/1.TS 基础数据类型.md",
     "typescript/2.接口.md",
-    "未命名.canvas",
+    "typescript/3.函数.md",
+    "typescript/1.TS 基础数据类型.md",
     "未命名.md",
+    "未命名.canvas",
     "你家什么名字呀.md"
   ]
 }
