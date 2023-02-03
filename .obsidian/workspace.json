@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "typescript/9.高级类型.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -161,15 +161,15 @@
   },
   "active": "e1a91b57777975d0",
   "lastOpenFiles": [
-    "typescript/2.接口.md",
-    "typescript/3.函数.md",
-    "typescript/4.字面量类型.md",
-    "typescript/5.联合类型与交叉类型.md",
-    "typescript/6.类.md",
-    "typescript/7.枚举.md",
     "typescript/8.泛型.md",
     "typescript/9.高级类型.md",
     "typescript/1.TS 基础数据类型.md",
+    "typescript/2.接口.md",
+    "typescript/3.函数.md",
+    "typescript/5.联合类型与交叉类型.md",
+    "typescript/4.字面量类型.md",
+    "typescript/7.枚举.md",
+    "typescript/6.类.md",
     "未命名.md"
   ]
 }
