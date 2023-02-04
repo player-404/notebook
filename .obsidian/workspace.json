@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1a91b57777975d0",
+            "id": "947b69dc0655bfaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/9.高级类型.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0125ff14713bdd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/9.高级类型.md",
+                "file": "typescript/10.工具类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/9.高级类型.md",
+                "file": "typescript/10.工具类型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/9.高级类型.md",
+                "file": "typescript/10.工具类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/9.高级类型.md"
+                "file": "typescript/10.工具类型.md"
               }
             }
           }
@@ -146,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,17 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e1a91b57777975d0",
+  "active": "947b69dc0655bfaf",
   "lastOpenFiles": [
     "typescript/8.泛型.md",
+    "typescript/7.枚举.md",
+    "typescript/10.工具类型.md",
     "typescript/9.高级类型.md",
     "typescript/1.TS 基础数据类型.md",
     "typescript/2.接口.md",
     "typescript/3.函数.md",
-    "typescript/5.联合类型与交叉类型.md",
     "typescript/4.字面量类型.md",
-    "typescript/7.枚举.md",
-    "typescript/6.类.md",
-    "未命名.md"
+    "typescript/5.联合类型与交叉类型.md",
+    "typescript/6.类.md"
   ]
 }
